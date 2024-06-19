@@ -1,0 +1,27 @@
+Arkanoid Brick Breaker Game developed as part of my second semester Object-Oriented Programming coursework, using the GLUT library! 🚀
+
+This project not only highlights my understanding of core OOP concepts but also showcases my creativity in game development. Here are some of the key features:
+
+🎮 OOP Principles: Built using inheritance, polymorphism, abstraction, encapsulation, composition, and aggregation, ensuring a modular and maintainable codebase.
+
+🎨 Dynamic Brick System:
+
+  Green Bricks: Triangular power-up doubles the paddle size.
+  Pink Bricks: Rectangular power-down halves the paddle size.
+  Blue Bricks: Circular power-up increases ball speed for 5 seconds.
+  Red Bricks: Rectangular power-down decreases ball speed for 5 seconds.
+  Yellow Bricks: Power-up introduces three additional balls for 5 seconds.
+
+🕹️ Level Design:
+
+  Four unique levels with different brick patterns.
+
+  Level 3 features two paddles (upper controlled by arrow keys, lower by mouse movement).
+  Paddle and ball colors change dynamically upon collision, adding visual flair.
+
+❤️ Lives and Progression:
+
+  Players start with 2 lives, reset to 2 at the beginning of each new level.
+  Game ends when all lives are lost or Level 4 is completed.
+
+This project has been an incredible learning experience, merging theoretical knowledge with practical application using the GLUT library. Looking forward to more exciting projects ahead!
