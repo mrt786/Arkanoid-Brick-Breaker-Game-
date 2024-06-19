@@ -38,6 +38,7 @@
   5) Link the Library: 
    
       When compiling your project, make sure to link against the GLUT library (glut.lib).
+     
 
 **On Mac:**
     
